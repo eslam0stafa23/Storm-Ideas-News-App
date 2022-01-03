@@ -1,4 +1,4 @@
-# WeatherForecast
+# Storm Ideas News App
 
 StormIdeas Android developer assessment
 
