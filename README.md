@@ -11,11 +11,13 @@ This project needs Android Studio 4.0.0 or above with Android Gradle plugin 7.0.
 
 It's recommended to open it using <B>Android Studio Artic Fox</B>.
 
+And you can download the APK file [here](https://github.com/eslam0stafa23/Storm-Ideas-News-App/blob/master/app/build/outputs/apk/debug/NewsApp.apk)
+
 ## Architecture
 Clean architecture based on MVVM (Model-View-ViewModel)
 The following diagram shows all the layers and how each layer interact with each other. This architecture using a layered software architecture.
-![MVVM](https://github.com/eslam0stafa23/Storm-Ideas-News-App/blob/main/art/mvvm_architecture.png)
-![Clean Architecture](https://github.com/eslam0stafa23/Storm-Ideas-News-App/blob/main/art/clean_architecture.png)
+![MVVM](https://github.com/eslam0stafa23/Storm-Ideas-News-App/blob/master/art/mvvm_architecture.png)
+![Clean Architecture](https://github.com/eslam0stafa23/Storm-Ideas-News-App/blob/master/art/clean_architecture.png)
 ## Built With 🛠
 * [Kotlin](https://kotlinlang.org/) - official programming language for Android development.
 * [Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html) - for asynchronous or non-blocking programming.
