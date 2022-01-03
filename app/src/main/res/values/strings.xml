@@ -1,0 +1,24 @@
+<resources>
+  <string name="app_name">Storm Ideas News App</string>
+  <string name="home_fragment_label">Home Fragment</string>
+
+  <string name="loading">Loading…</string>
+  <string name="connection_error">Connection Error!</string>
+  <string name="generic_error">An error has occurred!</string>
+
+  <string name="business">business</string>
+  <string name="entertainment">entertainment</string>
+  <string name="general">general</string>
+  <string name="health">health</string>
+  <string name="science">science</string>
+  <string name="sports">sports</string>
+  <string name="technology">technology</string>
+  <string name="top_headlines">Top Headlines</string>
+  <string name="most_recent">Most Recent</string>
+  <string name="text_placeholder">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+  <string name="article_fragment_label">Article Fragment</string>
+  <string name="author">Author: %s</string>
+  <string name="share">Share</string>
+  <string name="share_to">Share to</string>
+
+</resources>
